@@ -1,0 +1,1 @@
+I propose I receive a pay rise to 3k USD in ETH per (Peel) FC. I'm absolutely loving dedicating my time to this ecosystem and super keen to get grinding on V2 in the coming months. Thank you all for your consideration 🙌
