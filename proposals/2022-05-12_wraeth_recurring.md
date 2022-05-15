@@ -2,7 +2,7 @@ Proposal Date
 May 12, 2022
 
 What
-Compensate wraeth.eth US3,500 US2,000 (in ETH) per funding cycle for frontend development on Peel.
+Compensate wraeth.eth ~~US3,500~~ US2,000 (in ETH) per funding cycle for frontend development on Peel.
 Time expectation: 15-20 hours of effort a week, potentially more time permitting. (Generally about the same cadence I have been outputting during the trial period)
 
 Why
