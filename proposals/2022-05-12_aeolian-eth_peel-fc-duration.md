@@ -1,3 +1,7 @@
+# REJECTED
+
+---
+
 🍌 proposal update Peel funding cycle duration to 14 days
 
 rationale
