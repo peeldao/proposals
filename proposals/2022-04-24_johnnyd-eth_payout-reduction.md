@@ -1,3 +1,7 @@
+# REJECTED
+
+---
+
 PROPOSAL 
 
 Reduce my payout from $3000 to $2500 per week, declare that it cannot increase for any renewal I make for the next 6 months (26 FC's), and grant me 2M JBX from the Peel treasury. I won't be reducing my workload or responsibilities at all. I feel more motivated to work harder on this product than ever. 
