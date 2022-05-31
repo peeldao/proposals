@@ -4,7 +4,9 @@ Renew aeolian's recurring payout.
 
 ## Specification
 
+Reduce aeolian's pay to US$4000/week, starting in Peel FC#18.
 
+Please skip to the [Compensation rationale](#compensation) section.
 
 ## Risks
 
@@ -19,11 +21,13 @@ My role is a blend of technical, management, and product.
 
 It's a blend of senior/staff engineer, engineering manager, UX design, and product management.
 
+I put in well over 40 hours per week into Peel and Juicebox.
+
 #### Technical responisibility
 
 - I bare most resposibility for code merged.
 - I've been responsible for complex, urgent features (like the recent V2 funding cycle relaunch bugfix).
-- 
+- I provide architectural/technical guidance where necessary.
 - I built the SDK and juice-hooks library, which we can eventually use on juicebox.money to save ~1MB in bundle size.
 - I feel responsible for site reliability.
   - the translations broke and I had to investigate the fix. https://github.com/jbx-protocol/juice-interface/pull/1036
@@ -31,7 +35,6 @@ It's a blend of senior/staff engineer, engineering manager, UX design, and produ
 
 #### Managerial resposibility
 
-- I feel responsible for ensuring issues for bugs/ideas are created in GitHub.
 - We have a team of 5 - I feel responsible for making sure people everyone has something to work on, and that work is progressing.
 - Peel governance:
   - I have ensured all Peel proposals are acted upon
@@ -39,6 +42,7 @@ It's a blend of senior/staff engineer, engineering manager, UX design, and produ
   - I wrote our hiring guide.
 - I've been a spokesperson for Peel, giving progress reports in the JB townhall, as well as on Discord where needed.
 - I frequently get pinged in the JB Discord to attend to bugs, support requests, and other frontend-related discussion.
+- I feel responsible for ensuring issues for bugs/ideas are created in GitHub.
 
 #### Product responsibility
 
@@ -53,7 +57,8 @@ It's a blend of senior/staff engineer, engineering manager, UX design, and produ
 - I frequently provide support to our users in the JB Discord.
 - I'm actively involved in Juicebox DAO governance, providing feedback on most proposals and creating a number of proposals (some Peel-related).
 
-
 ### Compensation
 
-I believe this role is worth 
+I believe this role is worth roughly ~US$300,000 + equity + benefits, based on SF salary data (I can provide this data upon request).
+
+At a rate of US$4000/week, my salary would be equivalent to US$208,000 + JBX reserved tokens. I believe I am taking a meaningful pay cut to work on JB.
