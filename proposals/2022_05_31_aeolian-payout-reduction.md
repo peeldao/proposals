@@ -4,14 +4,7 @@ Renew aeolian's recurring payout.
 
 ## Specification
 
-Reduce aeolian's pay to US$4000/week, starting in Peel FC#18.
-
-Please skip to the [Compensation rationale](#compensation) section.
-
-## Risks
-
-- aeolian leaves due to low pay.
-- aeolian provides less value.
+Renew aeolian's pay at US$4500/week, starting in Peel FC#18.
 
 ## Rationale
 
@@ -56,9 +49,3 @@ I put in well over 40 hours per week into Peel and Juicebox.
 
 - I frequently provide support to our users in the JB Discord.
 - I'm actively involved in Juicebox DAO governance, providing feedback on most proposals and creating a number of proposals (some Peel-related).
-
-### Compensation
-
-I believe this role is worth roughly ~US$300,000 + equity + benefits, based on SF salary data (I can provide this data upon request).
-
-At a rate of US$4000/week, my salary would be equivalent to US$208,000 + JBX reserved tokens. I believe I am taking a meaningful pay cut to work on JB.
