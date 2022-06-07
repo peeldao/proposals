@@ -4,7 +4,7 @@ Renew aeolian's recurring payout.
 
 ## Specification
 
-Renew aeolian's pay at US$4500/week, starting in Peel FC#18.
+Renew aeolian's pay at US$7000/week, starting in Peel FC#19.
 
 ## Rationale
 
