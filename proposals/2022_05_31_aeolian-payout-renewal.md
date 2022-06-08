@@ -49,3 +49,9 @@ I put in well over 40 hours per week into Peel and Juicebox.
 
 - I frequently provide support to our users in the JB Discord.
 - I'm actively involved in Juicebox DAO governance, providing feedback on most proposals and creating a number of proposals (some Peel-related).
+
+### Compensation
+
+I don't believe my current payout has adequately taken into account the unique tradeoffs and risks associated with working in web3.
+
+Juicebox DAO payouts have also risen steadily, with efforts to decrease them being rejected by voters. I believe this signals that the Juicebox community values contributions higher than what my payout (and Peel payouts generally) currently reflect.
