@@ -2,7 +2,7 @@
 July 21 2022
 
 ## Thesis
-I am proposing that I enter a Trial Period as a UX/UI Designer working closely with Peel on optimising the Juicebox User Experience & Interface. I propose that the Trial Period last two funding cycles (FC#25 - FC#27) and that I receive a payout of $600 USD in ETH per funding cycle.
+I am proposing that I enter a Trial Period as a UX/UI Designer working closely with Peel on optimising the Juicebox User Experience & Interface. I propose that the Trial Period last two funding cycles (FC#25 - FC#26) and that I receive a payout of $600 USD in ETH per funding cycle.
 
 ## Motivation
 Juicebox is amazing and has done an incredible job creating an engaged and supportive community, but as it starts to gain traction and further ‘mainstream’ adoption it will require a dedicated User Experience and Interface designer to ensure our users and the community have a seamless and delightful experience when they interact with any part of the Juicebox platform. 
