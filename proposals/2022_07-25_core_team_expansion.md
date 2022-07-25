@@ -17,7 +17,7 @@ Add jmill and benschac:
 ## Rationale
 
 Both Jmill and Ben have been around for a few months now. I've been nothing but stoked on the code they've been putting out. I feel I have enough evidence that they:
-- comfortable enough with the codebase norms.
+- are comfortable enough with the codebase norms.
 - are great collaborators. take and give feedback well.
 - have good ideas for how we can improve the codebase.
 
