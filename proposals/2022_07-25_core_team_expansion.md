@@ -15,7 +15,13 @@ Add jmill and benschac:
 - github maintainers
 
 ## Rationale
-Both Jmill and Ben have 
+
+Both Jmill and Ben have been around for a few months now. I've been nothing but stoked on the code they've been putting out. I feel I have enough evidence that they:
+- comfortable enough with the codebase norms.
+- are great collaborators. take and give feedback well.
+- have good ideas for how we can improve the codebase.
+
+This will only increase with time.
 
 ## Risks
 - Security. By giving more people merge access, we are adding more opportunity for the codebase to be compromised (if someone is hacked, etc.).
