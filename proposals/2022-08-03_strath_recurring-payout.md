@@ -4,7 +4,7 @@ August 3rd 2022
 
 ## Thesis
 
-I am proposing that I enter a recurring payout of USD$2200 in ETH per funding cycle as a UX/UI Designer working with the Peel core team to take the Juicebox front end and overall user experience to the next level. Time expectation of around 25-30+ hours of effort per week (with availability to scale up during crucial sprints or projects).
+I am proposing that I enter a recurring payout of USD$2200 in ETH per funding cycle as a UX/UI Designer working with the Peel core team to take the Juicebox front end and overall user experience to the next level. Time expectation of ~30 hours of effort per week (with availability to scale up during crucial sprints or projects).
 
 ## Motivation
 
