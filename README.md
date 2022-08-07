@@ -11,8 +11,8 @@ Anyone can create a proposal using the following steps:
    - The filename should have the format `DATE_AUTHOR_NAME.md`
 3. Write your proposal. Be as detailed and specific as possible.
 4. Create a pull request for your branch.
-5. Discuss the proposal with PeelDAO core team members.
-6. If your pull request receives the necessary approvals, it will be considered "approved" and will be merged.
+5. Discuss the proposal with Peel contributors in Discord and GitHub pull request comments.
+6. If your pull request receives the necessary approvals (that conforms to the Peel multisig approval policy at the time the proposal is approved), it will be considered "approved" and will be merged.
 
 ### Video tutorial
 
