@@ -15,7 +15,7 @@ I am proposing to enter a recurring payout of $1800 in ETH per in the next  fund
 Juicebox already has a dedicated core team that works on the building of the Infrastructure which is a funding platform that is highly desirable for Crowdfunding of projects and the de-facto interface in decentralized funding of projects. I believe having a UX Designer with proficient insights in User research and having points of variability in understanding the Web 3 infrastructure, combined with how data can be represented and contextualized in the General UI and grand scheme of the product will be invaluable. It will assist the design team with being a few steps ahead of the Development team.
 
 ## Specification
-Provide $1800 in ETH per funding cycle as compensation to majordalaw.eth for 10 funding cycles in return UX Design, Research and Delightful UI Designs.
+Provide $1500 in ETH per funding cycle as compensation to majordalaw.eth for three funding cycles in return UX Design, Research and Delightful UI Designs.
 
 ## Rationale
 
@@ -49,4 +49,4 @@ I do not live up to expectations.
 
 
 ## Timeline
-Starting at Peel FC#28 and continuing for 10 funding cycles.
+This payout will run for Peel FC#28, FC#29 and FC#30. It will be removed before FC#31 unless superceded by another proposal.
