@@ -1,4 +1,4 @@
-# Proposal for 5 funding cycle recurring payment renewal
+# Proposal for 3 funding cycle recurring payment renewal
 
 
  ## Retrospect
@@ -9,7 +9,7 @@
 
  ## Proposal
  
- I am proposing that my recurring payout be extended for the next 5 funding cycles at $1800/FC
+ I am proposing that my recurring payout be extended for the next 3 funding cycles at $1800/FC
 
  ## Rationale
  I am currently working on the Homepage redesign and need little more time to sytheize the UX findings of the User testing phase.
