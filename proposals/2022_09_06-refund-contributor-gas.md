@@ -24,4 +24,10 @@ Once executed, we shall update the RECORD table https://github.com/peeldao/gasma
 
 This data was collated using [gasman](https://github.com/peeldao/gasman) - a script I wrote to calc gas across the juicebox project and the multisig.
 
+This command generated the above data:
+
+```
+npm run getTotalGasSpend -- 14561235 15481186
+```
+
 Please verify the data for yourself if interested.
