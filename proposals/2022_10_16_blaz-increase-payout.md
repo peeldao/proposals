@@ -19,12 +19,12 @@ Over the last 2 FCs i was mostly preoccupied with JB High and Defifa.
 In order to make it clearer to Peel DAO what benefits Peel DAO, I believe it is time that I restructure my proposal.
 As a Peel member for the upcoming period, I'd want to suggest the work listed below:
 
-- continue working on JBM smaller / medium issues with the same rythm as before.
+- continue working on JBM smaller / medium issues with the same rhythm as before.
 - continue working on JB High and support its future development.
 
 ### **Extra**
 
-This shouldn't have an impact on the proposal, just want to to express my gratitude for being given the chance to lead Defifa on behalf of Peel DAO.
+This shouldn't have an impact on the proposal, just want to express my gratitude for being given the chance to lead Defifa on behalf of Peel DAO.
 
 ### **Specification**
 
