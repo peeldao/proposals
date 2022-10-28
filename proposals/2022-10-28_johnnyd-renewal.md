@@ -32,7 +32,7 @@ Continue the US$4500 (in ETH) payout to johnnyd.eth.
     - See all PRs: https://github.com/jbx-protocol/juice-interface/pulls?q=is%3Apr+is%3Aclosed+author%3Ajohnnyd-eth.
     
 - I show up to the Discord daily, always quick to respond to messages related to my work, particularly NFT rewards / StudioDAO-related. 
-    e.g. scroll through [NFT rewards frontend](https://discord.com/channels/775859454780244028/990055537615970384)
+    e.g. scroll through [NFT rewards (frontend)](https://discord.com/channels/775859454780244028/990055537615970384) and [NFT rewards (contracts)](https://discord.com/channels/775859454780244028/987105293810938007)
     
 - Design and implement parts of UI where necessary:
     e.g. - Snapshot setup (https://github.com/jbx-protocol/juice-interface/pull/1930)
