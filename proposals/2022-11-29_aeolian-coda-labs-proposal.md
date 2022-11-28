@@ -4,7 +4,7 @@ November 29th 2022.
 
 ### **Thesis**
 
-Replace aeolians payout with payout to Coda Labs (Coda Labs Ops Pty Ltd).
+Remove aeolians payout, add payout to Coda Labs (Coda Labs Ops Pty Ltd).
 
 ### **Motivation**
 
