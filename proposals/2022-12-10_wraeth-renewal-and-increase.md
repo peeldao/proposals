@@ -60,4 +60,4 @@ During my time working on Juicebox I tend to show up most days and remain availa
 
 ### **Timeline**
 
-Timeline starts at Peel **FC#45** and continues for 8 Funding cycles until Peel **FC#53** (until JuiceboxDAO **~FC#41**).
+Timeline starts at Peel **FC#46** and continues for 7 Funding cycles until Peel **FC#53** (until JuiceboxDAO **~FC#41**).
