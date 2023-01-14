@@ -14,9 +14,10 @@ Proposal to update Peri's responsibilities and payout.
 	- "related projects"
 	- project tags
    - etc.
+- Providing code reviews
 ### Secondary
 - Better project/terminal versioning UX in JBM
-- Assist in development of other features as needed
+- Assist in development of other features or quick fixes as needed
 
 ## New payout amount
 US$6,250/fc
