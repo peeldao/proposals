@@ -29,9 +29,13 @@ Delisting a project means the following:
 
 ### Appeal procedure
 
-If someone wants to appeal, they can get in contact with us however they want (Discord preferred).
+If someone wants to appeal, they can get in contact with us however they want (Discord preferred). This is a temp-check process.
 
-To delist, reverse the steps of the **Delisting procedure**
+To formally propose a re-listing, create a proposal to Peel as per https://github.com/peeldao/proposals.
+
+If this proposal passes (meets the given governance criteria at the time of creation), Peel commits to re-listing.
+
+To re-list, reverse the steps of the **Delisting procedure**
 
 ## Action items
 
