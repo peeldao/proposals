@@ -13,19 +13,13 @@ Delisting a project means the following:
 
 ### Delisting procedure
 
-1. Contributor creates a PR in a `moderation` repository.
-  - this is a public GitHub respository in the `peeldao` github team.
-  - In the repo there is a directory `delistings`. In this directory are files named `<projectid_cv>.md`
-  - Contributor needs to create a new file with the project they want to delist. The file will have (not limited to) the following data:
+1. Contributor creates a PR in `juice-interface` repository.
+  - There is a new file called `blocklist.json`.
+  - Contributor adds an entry to this file for project they want to delist. The entry will have (not limited to) the following data:
     - Date of delist.
     - 1-sentence reason why.
     - Link to any discussions (discord, twitter).
-    - any relevant screenshots.
 2. Someone merges this PR.
-3. Contributor creates PR to delist a project in `juice-interface`.
-  - There will be a hardcoded array of project IDs in the source code.
-  - PR should contain link to the PR in `moderation` repo.
-4. Someone merges this PR.
 
 ### Appeal procedure
 
@@ -39,7 +33,6 @@ To re-list, reverse the steps of the **Delisting procedure**
 
 ## Action items
 
-- [ ] Create `moderation` repo.
+- [ ] Update `juice-interface` to support delisting as per specification.
 - [ ] Document delisting and appeal process in that repo.
 - [ ] Link to this repo from `juice-interface` README.
-- [ ] Update `juice-interface` to support delisting as per specification.
