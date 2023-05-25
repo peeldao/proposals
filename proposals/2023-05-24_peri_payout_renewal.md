@@ -37,6 +37,7 @@ Peri has also made various contributions to enhancing the JBM UI, including:
 ## Upcoming responsibilities
 
 For the next 12 cycles, Peri's responsibilities will include:
+- Finalize deprecation of custom subgraph utils (in progress)
 - Design/dev support for new project page. Primary goal will be the stats page, especially including a new database cacheing architecture to make over-time graphs (like the current volume graph) much more performant.
 - Continued Subgraph maintenance and development as needed
 - Continued responsibility over the database projects architecture, and any future improvements
