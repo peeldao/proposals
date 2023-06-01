@@ -4,7 +4,7 @@ Renew payout to peri.eth
 
 ## Specification
 
-- Continue US$6,250 payout for the next 12 funding cycles.
+- Renew and reduce payout to US$5,000 for the next 12 funding cycles.
 
 ## Rationale
 
