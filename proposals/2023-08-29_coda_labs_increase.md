@@ -27,6 +27,9 @@ Coda Labs proposes to expand their scope and commit to the following:
   - Keeping on top of bugs is critical for Peel to maintain trust with the community.
   - More bug-fixing capacity is necessary.
 
+**Budget**
+- Peel has 3k unused budget
+- If this proposal is approved, Peel would have 2k unused budget.
 
 #### Note
 - depending on the outcome of the next Peel proposal, Coda Labs is open to renegotiating this proposal to best contribute to the future direction.
