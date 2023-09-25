@@ -12,23 +12,33 @@ Ratify and execute payout reform.
 
 ### 1. Payout limit
 
-Limit payouts to US$4,900 per week.
+Limit payouts to US$5,000 per week.
 
 ### 2. Payouts to contributors
 
-Set all current contributor payouts to US$4,900 per week.
+Set all current contributor payouts to US$5,000 per week.
 
 <img width="685" alt="Screenshot 2023-09-16 at 6 18 55 PM" src="https://github.com/peeldao/proposals/assets/12551741/38253e35-5c03-444f-ab70-6b93c09cae01">
 
-### 3. Reduction requests
+### 3. Reductions
 
-Anyone can request a reduction to any individuals payout at any time, including the individual themselves.
+Ratify the following general guiding principles for payout reductions:
 
-Guiding principles for reduction requests:
-- They should be as objective as possible.
-- They should be in response to a contributor not being able to fulfill their responsibilities.
-- They are unemotional and not personal.
-- They are not necessarily permanent.
+> start
+
+Contributors should consider reducing their payout if they are no longer able to fulfill responsibilities due to other committments, extended holiday without laptop access, etc.
+
+Contributors are encouraged to deliver feedback to other contributors in private, 1:1 conversations, not in public. The following describes some general principles for giving feedback:
+- Feedback should assume positive intent.
+- Feedback should seek to improve the recipient's abilitiy to contribute, not vilify them.
+- Feedback should be as objective as possible.
+- Feedback can be in response to a contributor not being able to fulfill their responsibilities, or other concerns.
+- Feedback should be unemotional and not personal.
+
+Payout reductions are not necessarily permanent.
+
+> end 
+
 
 ### 4. Contributor freeze
 
