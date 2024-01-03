@@ -6,8 +6,8 @@ The last reimbursement approved was here: https://github.com/peeldao/proposals/b
 
 ## Spec
 
-$886.83 USDC to codalabs.eth
+$979.82 USDC to codalabs.eth
 
 ## Rationale
 
-<img width="683" alt="Screenshot 2023-12-08 at 2 52 26 PM" src="https://github.com/peeldao/proposals/assets/12551741/a89b7112-9360-4a1f-9c47-98bc5c2ab6eb">
+<img width="620" alt="Screenshot 2024-01-03 at 9 20 25 PM" src="https://github.com/peeldao/proposals/assets/12551741/058e70fb-0b48-402f-ab00-bdecc5b8030b">
