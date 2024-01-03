@@ -1,0 +1,17 @@
+## Split the remaining Peel assets between the 6 core contributors. 
+
+Current Peel assets as of 3/1/24:
+- 39,838.30 USDC
+- 31.60013 ETH (this number will need to be adjusted slightly once our remaining ~US$1000 worth of GRT has been sold, and gas reimbursments have been made)
+
+## Actions
+
+Execute 12 transactions to send 6639.72 USDC and 5.26669 ETH (to be updated, see above) from the Peel.eth multisig to the following accounts respectively:
+- codalabs.eth/0x1bb1e3f6818feb7c1f1674e6e7d6c30ba2725643 (Aeolian)
+- solrising.eth/0x1e2b964ddfed2bd32b99513ac2357b7b0c3ed94f (Strath)
+- squarechainlabs.eth/0x4af0974b92172ca29d07f47f44b03b2cc4aa8434 (Wraeth)
+- peri.eth/0x63a2368f4b509438ca90186cb1c15156713d5834 (Peri)
+- timjl.eth/0x960fd7cd779161cd425bd8d6cd21121c0326a079 (Tim)
+- 0x256b7b9bfa567a1ce2586da9abd5b860170c694e (JohnnyD)
+
+
