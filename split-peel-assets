@@ -14,7 +14,7 @@ So in total: split the entire ETH balance, and split 35,732.08 USDC (leaving 2,0
 
 ## Actions
 
-Execute 2 transactions to send the following USDC and ETH respecively from the Peel.eth multisig to the each of following recipients:
+Execute 2 transactions to send the following USDC and ETH respectively from the Peel.eth multisig to the each of following recipients:
 - codalabs.eth/0x1bb1e3f6818feb7c1f1674e6e7d6c30ba2725643 (Aeolian): 4.750570715 ETH, 6970.63 USDC
 - squarechainlabs.eth/0x4af0974b92172ca29d07f47f44b03b2cc4aa8434 (Wraeth): 4.75817645 ETH, 6022.54 USDC
 - 0x256b7b9bfa567a1ce2586da9abd5b860170c694e (JohnnyD): 4.766676141 ETH, 5955.81 USDC
