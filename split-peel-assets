@@ -1,12 +1,18 @@
 ## Split the remaining Peel assets between the 6 core contributors. 
 
-Current Peel assets as of 3/1/24:
-- 39,838.30 USDC
-- 31.60013 ETH (this number will need to be adjusted slightly once our remaining ~US$1000 worth of GRT has been sold, and gas reimbursments have been made)
+Current Peel assets as of 9/1/24:
+- 37,778.63 USDC
+- 28.59834 ETH 
+
+Treasury still has two remaining expense transactions to come, totally 1,046.55USDC in (https://github.com/peeldao/proposals/pull/76/files, https://github.com/peeldao/proposals/pull/79/files and https://github.com/peeldao/proposals/pull/78/files). 
+
+Additionally, this proposal will leave 1k remaining for possible unforeseen costs to come, or not yet accounted for. 
+
+So in total: split the entire ETH balance, and split 35,732.08 USDC (leaving 2,046.55 remaining), between the 6 core contributors as specified below. 
 
 ## Actions
 
-Execute 12 transactions to send 6639.72 USDC and 5.26669 ETH (to be updated, see above) from the Peel.eth multisig to the following accounts respectively:
+Execute 2 transactions to send 5,955.35 USDC and 4.76639 ETH respecively from the Peel.eth multisig to the each of following recipients:
 - codalabs.eth/0x1bb1e3f6818feb7c1f1674e6e7d6c30ba2725643 (Aeolian)
 - solrising.eth/0x1e2b964ddfed2bd32b99513ac2357b7b0c3ed94f (Strath)
 - squarechainlabs.eth/0x4af0974b92172ca29d07f47f44b03b2cc4aa8434 (Wraeth)
