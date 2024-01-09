@@ -8,16 +8,17 @@ Treasury still has two remaining expense transactions to come, totally 1,046.55U
 
 Additionally, this proposal will leave 1k remaining for possible unforeseen costs to come, or not yet accounted for. 
 
-So in total: split the entire ETH balance, and split 35,732.08 USDC (leaving 2,046.55 remaining), between the 6 core contributors as specified below. 
+Further, will take into account outstanding gas reimbursements for each contributor accordingly to the following spreadsheet: https://docs.google.com/spreadsheets/d/1HgJ7e914n1kK_qP_X6K4neX2CgVFEU-aPsjLA7b1JU8/edit#gid=0
+
+So in total: split the entire ETH balance, and split 35,732.08 USDC (leaving 2,046.55 remaining), between the 6 core contributors, and account for gas refunds, as specified below. 
 
 ## Actions
 
-Execute 2 transactions to send 5,955.35 USDC and 4.76639 ETH respecively (totals US$16,978.53 at time of writing) from the Peel.eth multisig to the each of following recipients:
-- codalabs.eth/0x1bb1e3f6818feb7c1f1674e6e7d6c30ba2725643 (Aeolian)
-- solrising.eth/0x1e2b964ddfed2bd32b99513ac2357b7b0c3ed94f (Strath)
-- squarechainlabs.eth/0x4af0974b92172ca29d07f47f44b03b2cc4aa8434 (Wraeth)
-- peri.eth/0x63a2368f4b509438ca90186cb1c15156713d5834 (Peri)
-- timjl.eth/0x960fd7cd779161cd425bd8d6cd21121c0326a079 (Tim)
-- 0x256b7b9bfa567a1ce2586da9abd5b860170c694e (JohnnyD)
-
+Execute 2 transactions to send the following USDC and ETH respecively from the Peel.eth multisig to the each of following recipients:
+- codalabs.eth/0x1bb1e3f6818feb7c1f1674e6e7d6c30ba2725643 (Aeolian): 4.750570715 ETH, 6970.63 USDC
+- squarechainlabs.eth/0x4af0974b92172ca29d07f47f44b03b2cc4aa8434 (Wraeth): 4.75817645 ETH, 6022.54 USDC
+- 0x256b7b9bfa567a1ce2586da9abd5b860170c694e (JohnnyD): 4.766676141 ETH, 5955.81 USDC
+- solrising.eth/0x1e2b964ddfed2bd32b99513ac2357b7b0c3ed94f (Strath): 4.767647932 ETH, 5955.81 USDC
+- timjl.eth/0x960fd7cd779161cd425bd8d6cd21121c0326a079 (Tim): 4.81007038 ETH, 5955.81 USDC
+- peri.eth/0x63a2368f4b509438ca90186cb1c15156713d5834 (Peri): 4.745198381 ETH, 5955.81 USDC
 
